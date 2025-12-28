@@ -40,3 +40,23 @@
 .read-the-docs {
   color: #888;
 }
+
+.profil-karti{
+  width: 205px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  text-align: center;
+  padding: 20px;
+  margin: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  background-color: white;
+}
+
+.profil-karti img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+
+}
